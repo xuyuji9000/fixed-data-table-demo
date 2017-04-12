@@ -1,10 +1,10 @@
 import React from 'react'
 import { render } from 'react-dom'
-import Test from './components/Test'
+import DataTable from './components/DataTable'
 
 
 
 render(
-    <Test></Test>,
+    <DataTable></DataTable>,
     document.getElementById('root')
 )
